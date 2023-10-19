@@ -1,2 +1,2 @@
 # Rust
-Some rust code
+Some rust projects
