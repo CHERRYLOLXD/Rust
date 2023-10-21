@@ -1,3 +1,3 @@
 # Rust
 
-Some rust projects
+Some Rust projects
